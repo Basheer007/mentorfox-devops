@@ -1,0 +1,633 @@
+<div class=" font-lato">
+<section
+  class="mm:pb-10 mm:py-3 xm:py-14 xs:py-14 sm:py-24 md:py-14 lg:py-14 xl:py-10 2xl:py-10  3xl:py-24 4xl:py-32 5xl:py-36 6xl:py-40 7xl:py-40 bg-[#0c1141]"
+>
+  <div class="w-full flex justify-center py-10">
+    <div
+      class="h-full flex items-center justify-between flex-row w-[87%] xm:w-[87%] xs:w-[87%] sm:w-[87%] md:w-[87%] gap-2 xm:gap-3 xs:gap-4 sm:gap-4 lg:gap-3 xl:gap-8 3xl:gap-12 4xl:gap-42 5xl:gap-8 6xl:gap-8 7xl:gap-8"
+    >
+      <div
+        class="flex flex-col w-[50%] 4xl:h-[90%] justify-evenly mm:gap-2 xm:gap-1 xs:gap-3 sm:gap-4 md:gap-3 lg:gap-7 xl:gap-10 2xl:gap-14 3xl:gap-12 4xl:gap-20 items-start"
+      >
+        <h1
+        class="home-title"
+          style=" line-height: normal"
+        >
+          Multi-Cloud & DevOps Mentorship Program
+        </h1>
+        <h2 class="home-subtitle">
+          Master Multi-Cloud & DevOps with MentorFox. Gain hands-on experience
+          with industrial experts. Secure guaranteed placements in top
+          companies.
+        </h2>
+        <div class="mt-4">
+          <a
+            href="https://weslyi-mentorfox.zohobookings.in/#/customer/denmaster"
+          >
+          <button
+          severity="secondary"
+          class="text-black bg-[#ffb095] text-[10px] h-7 w-20 xm:text-xs xm:h-8 xm:w-24 xs:h-10 xs:w-32 sm:h-10 sm:w-32 md:text-sm xl:text-lg xs:text-base 4xl:text-3xl md:h-10 md:w-28 lg:h-10 lg:w-32 xl:h-12 xl:w-36 4xl:h-20 4xl:w-64 5xl:h-32 5xl:w-96 6xl:h-36 6xl:w-[490px] 7xl:h-40 7xl:w-[520px] rounded-lg 5xl:rounded-xl 6xl:rounded-2xl 7xl:rounded-3xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl flex mm:gap-2 justify-center items-center"
+        >
+          <img
+            src="assets/arrow-up-right copy.svg"
+            alt=""
+            draggable="false"
+            class="xl:w-5 4xl:w-7 5xl:w-11 6xl:w-11 7xl:w-14"
+          />
+          Book Now
+        </button>
+          </a>
+        </div>
+      </div>
+      <div
+        class="w-[50%] lg:w-[40%] xl:w-[45%] 4xl:w-[40%] flex items-center justify-center"
+      >
+        <img
+          src="assets/devops.svg"
+          alt="multicloud & devops"
+          draggable="false"
+          class="w-full rounded-3xl"
+          id="fourstar"
+          loading="lazy"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+<div
+  class="w-full bg-white flex flex-col items-center py-10 md:py-20 gap-10 md:gap-20 4xl:py-36 4xl:gap-32 5xl:py-44 5xl:gap-44 6xl:py-56 6xl:gap-56 7xl:py-64 7xl:gap-64"
+>
+  <div
+    class="text-center flex flex-col mm:gap-8 lg:gap-8 4xl:gap-32 5xl:gap-44 6xl:gap-56 7xl:gap-64 w-[82%] transition-opacity ease-in-out delay-200 duration-[3000ms]"
+  >
+    <h2 class="abouttitle">About the Program</h2>
+    <p
+      class="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-7xl 5xl:leading-loose 4xl:leading-loose 6xl:leading-loose leading-6 md:leading-9"
+    >
+      Master Multi-Cloud & DevOps with MentorFox. Gain hands-on experience with
+      industrial experts. Secure guaranteed placements in top companies. Master
+      Multi-Cloud & DevOps with MentorFox. Gain hands-on experience with
+      industrial experts. Secure guaranteed placements in top companies. Master
+      Multi-Cloud & DevOps with MentorFox. Gain hands-on experience with
+      industrial experts. Secure guaranteed placements in top companies Master
+      Multi-Cloud & DevOps with MentorFox.
+    </p>
+  </div>
+  <div
+    class="hidden w-[85%] lg:w-[84%] 4xl:w-[82%] md:flex lg:ml-12 xl:ml-0 md:ml-10 text-white items-center mm:gap-3 xl:gap-5 4xl:gap-16 5xl:gap-20 6xl:gap-24 7xl:gap-28 transition-opacity ease-in-out delay-200 duration-[3000ms]"
+  >
+    <div
+      class="md:w-[20%] w-[40%] mm:h-20 md:h-32 2xl:h-40 4xl:h-56 5xl:h-72 6xl:h-96 7xl:h-[400px] rounded-lg 7xl:rounded-3xl bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+    >
+      <p
+        class="w-[80%] md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl 6xl:leading-normal 7xl:leading-normal"
+      >
+        Starting the Program
+      </p>
+    </div>
+    <img
+      src="/assets/next-navigation.svg"
+      alt=""
+      class="md:w-10 3xl:w-16 4xl:w-20 5xl:w-28 6xl:w-32 7xl:w-36"
+    />
+    <div
+      class="md:w-[20%] w-[42%] mm:h-20 md:h-32 rounded-lg 2xl:h-40 4xl:h-56 5xl:h-72 6xl:h-96 7xl:h-[400px] 7xl:rounded-3xl bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+    >
+      <p
+        class="w-[80%] md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl 6xl:leading-normal 7xl:leading-normal"
+      >
+        3 Months completely Offline course
+      </p>
+    </div>
+    <img
+      src="/assets/next-navigation.svg"
+      alt=""
+      class="md:w-10 3xl:w-16 4xl:w-20 5xl:w-28 6xl:w-32 7xl:w-36"
+    />
+    <div
+      class="md:w-[20%] w-[40%] mm:h-20 md:h-32 rounded-lg 2xl:h-40 4xl:h-56 5xl:h-72 6xl:h-96 7xl:h-[400px] 7xl:rounded-3xl bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+    >
+      <p
+        class="w-[80%] md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl 6xl:leading-normal 7xl:leading-normal"
+      >
+        3 Months Placement Assistance
+      </p>
+    </div>
+    <img
+      src="/assets/next-navigation.svg"
+      alt=""
+      class="md:w-10 3xl:w-16 4xl:w-20 5xl:w-28 6xl:w-32 7xl:w-36"
+    />
+    <div
+      class="md:w-[20%] w-[40%] mm:h-20 md:h-32 rounded-lg 2xl:h-40 4xl:h-56 5xl:h-72 6xl:h-96 7xl:h-[400px] 7xl:rounded-3xl bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+    >
+      <p
+        class="w-[80%] md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl 6xl:leading-normal 7xl:leading-normal"
+      >
+        Landing your job
+      </p>
+    </div>
+  </div>
+  <div
+    class="mm:w-[84%] lg:w-[84%] flex lg:ml-12 xl:ml-0 md:ml-10 md:hidden text-white items-center gap-3 xl:gap-12 transition-opacity ease-in-out delay-200 duration-[3000ms]"
+  >
+    <div class="flex flex-col gap-7 xs:gap-9 sm:gap-11 items-center">
+      <div class="w-full flex items-center gap-24 xs:gap-24 sm:gap-28">
+        <div
+          class="sm:w-[45%] w-[40%] mm:h-28 xs:h-28 sm:h-32 md:h-32 rounded-lg bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+        >
+          <p class="w-[80%] mm:text-sm xm:text-base sm:text-xl">
+            Starting the Program
+          </p>
+        </div>
+        <div
+          class="sm:w-[45%] w-[42%] mm:h-28 xs:h-28 sm:h-32 md:h-32 rounded-lg bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+        >
+          <p class="w-[80%] mm:text-sm xm:text-base sm:text-xl">
+            Landing your job
+          </p>
+        </div>
+      </div>
+      <div class="mm:w-[80%] xm:w-[70%] flex justify-between">
+        <img src="/assets/next-navigation.svg" alt="" class="w-10 rotate-90" loading="lazy" />
+        <img src="/assets/next-navigation.svg" alt="" class="w-10 -rotate-90" loading="lazy" />
+      </div>
+      <div class="w-full flex items-center gap-7 xs:gap-9 sm:gap-11">
+        <div
+          class="sm:w-[45%] w-[40%] mm:h-28 xs:h-28 sm:h-32 md:h-32 rounded-lg bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+        >
+          <p class="w-[80%] mm:text-sm xm:text-base sm:text-xl">
+            3 Months completely Offline course
+          </p>
+        </div>
+        <img src="/assets/next-navigation.svg" alt="" class="w-10" loading="lazy" />
+        <div
+          class="sm:w-[45%] w-[40%] mm:h-28 xs:h-28 sm:h-32 md:h-32 rounded-lg bg-[#010854] border-2 border-white text-white flex justify-center items-center text-[10px] md:text-lg lg:text-xl font-medium text-center"
+        >
+          <p class="w-[80%] mm:text-sm xm:text-base sm:text-xl">
+            3 Months Placement Assistance
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div
+  class="flex flex-col items-center sm:gap-8 md:gap-12 lg:gap-16 pb-10 mm:py-3 xm:py-14 xs:py-14 sm:py-24 md:py-14 lg:py-14 xl:py-28 2xl:py-20 3xl:py-24 4xl:py-32 5xl:py-36 6xl:py-40 7xl:py-40 bg-[#0c1141]"
+>
+  <div
+    class="sm:flex hidden lg:w-[70%] w-[80%] 4xl:w-[80%] h-[80px] md:h-28 xl:h-36 lg:h-32 4xl:h-56 5xl:h-72 6xl:h-96 7xl:h-[450px] gap-1"
+  >
+    <div
+      class="w-[20%] h-full bg-[#ffb095] text-black rounded-s-3xl flex xl:gap-2 4xl:gap-4 5xl:gap-6 6xl:gap-8 items-center flex-col text-center justify-center"
+    >
+      <p
+        class="sm:text-xs md:text-lg font-semibold lg:text-2xl xl:text-3xl 4xl:text-5xl 5xl:text-6xl 6xl:text-7xl 7xl:text-8xl text-center w-[80%]"
+      >
+        95%
+      </p>
+
+      <p
+        class="sm:text-xs md:text-base lg:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-7xl 7xl:leading-normal 6xl:leading-normal 5xl:leading-normal text-center font-medium w-[80%] md:w-[90%] xl:w-[50%] 2xl:w-[90%]"
+      >
+        Placement success
+      </p>
+    </div>
+    <div
+      class="w-[20%] h-full bg-[#ffb095] text-black flex xl:gap-2 md:gap-1 gap-1 4xl:gap-4 5xl:gap-6 6xl:gap-8 flex-col items-center justify-center"
+    >
+      <p
+        class="sm:text-xs md:text-lg font-semibold lg:text-2xl xl:text-3xl 4xl:text-5xl 5xl:text-6xl 6xl:text-7xl 7xl:text-8xl text-center w-[80%]"
+      >
+        5 LPA
+      </p>
+      <p
+        class="sm:text-xs md:text-base lg:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-7xl 7xl:leading-normal 6xl:leading-normal 5xl:leading-normal text-center font-medium w-[60%] md:w-[50%] lg:w-[40%] xl:w-[50%] 2xl:w-[90%]"
+      >
+        Average CTC
+      </p>
+    </div>
+    <div
+      class="w-[20%] h-full bg-[#ffb095] text-black flex xl:gap-2 md:gap-1 gap-1 4xl:gap-4 5xl:gap-6 6xl:gap-8 flex-col items-center justify-center"
+    >
+      <p
+        class="sm:text-xs md:text-lg font-semibold lg:text-2xl xl:text-3xl 4xl:text-5xl 5xl:text-6xl 6xl:text-7xl 7xl:text-8xl text-center w-[80%]"
+      >
+        12 LPA
+      </p>
+      <p
+        class="sm:text-xs md:text-base lg:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-7xl 7xl:leading-normal 6xl:leading-normal 5xl:leading-normal text-center font-medium w-[60%] sm:w-[50%] md:w-[50%] lg:w-[40%] xl:w-[50%] 2xl:w-[90%]"
+      >
+        Highest CTC
+      </p>
+    </div>
+    <div
+      class="w-[20%] h-full bg-[#ffb095] text-black flex xl:gap-2 md:gap-1 gap-1 4xl:gap-4 5xl:gap-6 6xl:gap-8 flex-col items-center justify-center"
+    >
+      <p
+        class="sm:text-xs md:text-lg font-semibold lg:text-2xl xl:text-3xl 4xl:text-5xl 5xl:text-6xl 6xl:text-7xl 7xl:text-8xl text-center w-[80%]"
+      >
+        500+
+      </p>
+      <p
+        class="sm:text-xs md:text-base lg:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-7xl 7xl:leading-normal 6xl:leading-normal 5xl:leading-normal text-center font-medium w-[60%] md:w-[50%] xl:w-[50%] 2xl:w-[90%]"
+      >
+        Hiring Partners
+      </p>
+    </div>
+
+    <div
+      class="w-[20%] h-full bg-[#ffb095] text-black rounded-e-3xl text-center 4xl:gap-4 5xl:gap-6 flex xl:gap-2 6xl:gap-8 flex-col items-center justify-center"
+    >
+      <p
+        class="sm:text-xs md:text-lg font-semibold lg:text-2xl xl:text-3xl 4xl:text-5xl 5xl:text-6xl 6xl:text-7xl 7xl:text-8xl text-center w-[80%]"
+      >
+        60%
+      </p>
+      <p
+        class="sm:text-xs md:text-base lg:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-7xl 7xl:leading-normal 6xl:leading-normal 5xl:leading-normal text-center font-medium w-[80%] md:w-[80%] xl:w-[80%] 2xl:w-[90%]"
+      >
+        Average Salary Hike
+      </p>
+    </div>
+  </div>
+  <div
+    class="sm:hidden w-full flex flex-col justify-center items-center gap-10"
+  >
+    <div class="w-[84%] flex gap-10">
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1 mm:pt-2 xs:justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          95%
+        </p>
+
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[80%]">
+          Placement success
+        </p>
+      </div>
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1 mm:pt-2 xs:justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          5 LPA
+        </p>
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[60%]">
+          Average CTC
+        </p>
+      </div>
+    </div>
+    <div class="w-[84%] flex gap-10">
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1 mm:pt-2 xs:justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          12 LPA
+        </p>
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[50%]">
+          Highest CTC
+        </p>
+      </div>
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1  mm:pt-2 xs:justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          500+
+        </p>
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[60%]">
+          Hiring Partners
+        </p>
+      </div>
+    </div>
+    <div class="w-[84%] flex gap-10">
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1 mm:pt-2 xs:justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          60%
+        </p>
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[80%]">
+          Average Salary Hike
+        </p>
+      </div>
+      <div
+        class="bg-[#ffb095] text-black w-[45%] mm:h-32 xm:h-40 rounded-2xl flex flex-col gap-1 justify-center items-center"
+      >
+        <p class="mm:text-lg xm:text-xl font-extrabold text-center w-[80%]">
+          12+ Years
+        </p>
+        <p class="mm:text-sm xm:text-lg text-center font-bold w-[80%]">
+          Mentors' average experience
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="w-full flex justify-center xl:h-[70px]">
+    <div class="mt-4">
+      <a href="https://weslyi-mentorfox.zohobookings.in/#/customer/denmaster">
+        <button
+        severity="secondary"
+        class="text-black bg-[#ffb095] text-[10px] h-7 w-20 xm:text-xs xm:h-8 xm:w-24 xs:h-10 xs:w-32 sm:h-10 sm:w-32 md:text-sm xl:text-lg xs:text-base 4xl:text-3xl md:h-10 md:w-28 lg:h-10 lg:w-32 xl:h-12 xl:w-36 4xl:h-20 4xl:w-64 5xl:h-32 5xl:w-96 6xl:h-36 6xl:w-[490px] 7xl:h-40 7xl:w-[520px] rounded-lg 5xl:rounded-xl 6xl:rounded-2xl 7xl:rounded-3xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl flex mm:gap-2 justify-center items-center"
+      >
+        <img
+          src="assets/arrow-up-right copy.svg"
+          alt=""
+          draggable="false"
+          class="xl:w-5 4xl:w-7 5xl:w-11 6xl:w-11 7xl:w-14"
+        />
+        Book Now
+      </button>
+      </a>
+    </div>
+  </div>
+</div>
+<div
+  class="w-full bg-white flex flex-col items-center py-10 md:py-20 gap-10 md:gap-10 4xl:py-36 4xl:gap-32 5xl:py-44 5xl:gap-44 6xl:py-56 6xl:gap-56 7xl:py-64 7xl:gap-64"
+>
+  <h2 class="abouttitle">MentorFox's Job Guarentee Explained</h2>
+  <p
+    class="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 2xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-7xl 5xl:leading-loose 4xl:leading-loose 6xl:leading-loose leading-6 md:leading-9 w-[80%] text-center"
+  >
+    MentorFox is a partner in our learner's career tranformation and belive that
+    we deserve a portion of the fee only after a successfull outcome for our
+    learners.Thus, our Job Guarantee Program have a component of "Success Fee",
+    which waived off if the job guarantee is not met within 6 months placement
+    eligibility date.
+  </p>
+  <mat-accordion class="flex flex-col 3xl:gap-6 w-[60%]">
+    <mat-expansion-panel>
+      <mat-expansion-panel-header>
+        <mat-panel-title
+          class="flex mm:gap-1 xm:gap-3 h-32 md:text-xl 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+        >
+          <img src="/assets/jobmulti.svg" alt="" class="w-12 h-12" loading="lazy" />
+          Who is Eligible?
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <p
+        class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+      >
+        At MentorFox, you can connect with a diverse range of tech talent,
+        including fresh graduates and experienced professionals. Our candidates
+        are skilled in various tech domains such as software development, data
+        science, cloud computing, and more.
+      </p>
+    </mat-expansion-panel>
+    <br />
+    <mat-expansion-panel
+      (opened)="panelOpenState = true"
+      (closed)="panelOpenState = false"
+    >
+      <mat-expansion-panel-header>
+        <mat-panel-title
+          class="flex mm:gap-1 xm:gap-3 h-32 md:text-xl 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+        >
+          <img src="/assets/jobmulti.svg" alt="" class="w-12 h-12" loading="lazy" />
+          How does it work?
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <p
+        class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+      >
+        Our candidates undergo comprehensive screening and training, emphasizing
+        both technical skills and readiness for the fast-paced tech industry. We
+        ensure they are not only technically adept but also adaptable to the
+        evolving demands of the tech sector.
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>
+<div
+  class="w-full bg-[#0c1141] py-20 4xl:py-32 5xl:py-44 6xl:py-56 7xl:py-72 flex flex-col items-center"
+>
+  <div
+    class="w-[84%] flex flex-col gap-12 4xl:gap-20 5xl:gap-28 6xl:gap-36 7xl:gap-44"
+  >
+    <h2 class="abouttitle text-white">Who is it for</h2>
+    <div
+      class="w-full grid grid-cols-1 md:grid-cols-2 gap-20 sm:gap-20 md:gap-16 lg:gap-24 4xl:gap-56 5xl:gap-72 6xl:gap-80 7xl:gap-56"
+    >
+      <div
+        class="border-2 border-[#ffb095] flex-col items-center h-72 lg:h-[265px] xl:h-72 3xl:h-80 4xl:h-[420px] 5xl:h-[450px] 6xl:h-[540px] 7xl:h-[680px] rounded-3xl 7xl:rounded-[80px] flex gap-4"
+      >
+        <div
+          class="mt-3 mm:w-20 4xl:w-28 5xl:w-36 6xl:w-48 7xl:w-60 mm:h-20 4xl:h-28 5xl:h-36 6xl:h-48 7xl:h-60 rounded-3xl bg-[#010854] flex justify-center items-center"
+        >
+          <img src="/assets/it-pro.svg" alt="" class="w-[70%] h-[70%]" loading="lazy" />
+        </div>
+        <div
+          class="mb-0 flex flex-col justify-center text-white w-[80%] gap-4 md:gap-3 lg:gap-6 4xl:gap-16 4xl:leading-normal 5xl:gap-20 5xl:leading-normal"
+        >
+          <p
+            class="mb-0 mm:text-xl text-center sm:text-2xl md:text-xl lg:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl font-medium"
+          >
+            IT Professionals
+          </p>
+          <p
+            class="mb-0 text-center mm:text-sm xm:text-lg sm:text-xl md:text-base lg:text-lg xl:text-xl 3xl:text-2xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl 4xl:leading-normal 5xl:leading-normal 6xl:leading-normal 7xl:leading-normal"
+          >
+            Update your knowledge, stay with industry trends, and enhance your
+            expertise in cloud and DevOps.
+          </p>
+        </div>
+      </div>
+      <div
+        class="border-2 border-[#ffb095] flex-col items-center h-72 lg:h-[265px] xl:h-72 3xl:h-80 4xl:h-[420px] 5xl:h-[450px] 6xl:h-[540px] 7xl:h-[680px] rounded-3xl 7xl:rounded-[80px] flex gap-4"
+      >
+        <div
+          class="mt-3 mm:w-20 4xl:w-28 5xl:w-36 6xl:w-48 7xl:w-60 mm:h-20 4xl:h-28 5xl:h-36 6xl:h-48 7xl:h-60 rounded-3xl bg-[#010854] flex justify-center items-center"
+        >
+          <img src="/assets/cap-multi.svg" alt="" class="w-[70%] h-[70%]"  loading="lazy" />
+        </div>
+        <div
+          class="flex flex-col justify-center text-white w-[80%] gap-4 md:gap-3 lg:gap-6 4xl:gap-16 4xl:leading-normal 5xl:gap-20 5xl:leading-normal"
+        >
+          <p
+            class="mb-0 text-center mm:text-xl sm:text-2xl md:text-xl lg:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl font-medium"
+          >
+            College Graduates
+          </p>
+          <p
+            class="mb-0 text-center mm:text-sm xm:text-lg sm:text-xl md:text-base lg:text-lg xl:text-xl 3xl:text-2xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl 4xl:leading-normal 5xl:leading-normal 6xl:leading-normal 7xl:leading-normal"
+          >
+            Start your Career essential IT skills in Cloud Computing and DevOps
+            to stand out in the job market.
+          </p>
+        </div>
+      </div>
+
+      <div
+        class="border-2 border-[#ffb095] flex-col items-center h-72 lg:h-[265px] xl:h-72 3xl:h-80 4xl:h-[420px] 5xl:h-[450px] 6xl:h-[540px] 7xl:h-[680px] rounded-3xl 7xl:rounded-[80px] flex gap-4"
+      >
+        <div
+          class="mt-3 mm:w-20 4xl:w-28 5xl:w-36 6xl:w-48 7xl:w-60 mm:h-20 4xl:h-28 5xl:h-36 6xl:h-48 7xl:h-60 rounded-3xl bg-[#010854] flex justify-center items-center"
+        >
+          <img src="/assets/infinity.svg" alt="" class="w-[70%] h-[70%]" loading="lazy" />
+        </div>
+        <div
+          class="flex flex-col justify-center text-white w-[80%] gap-4 md:gap-3 lg:gap-6 4xl:gap-16 4xl:leading-normal 5xl:gap-20 5xl:leading-normal"
+        >
+          <p
+            class="mb-0 text-center mm:text-xl sm:text-2xl md:text-xl lg:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl font-medium"
+          >
+            Aspiring DevOps Engineers
+          </p>
+          <p
+            class="mb-0 text-center mm:text-sm xm:text-lg sm:text-xl md:text-base lg:text-lg xl:text-xl 3xl:text-2xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl 4xl:leading-normal 5xl:leading-normal 6xl:leading-normal 7xl:leading-normal"
+          >
+            Individuals who aspire to become DevOps engineers and are looking to
+            upskill in the feild of DevOps.
+          </p>
+        </div>
+      </div>
+      <div
+        class="border-2 border-[#ffb095] flex-col items-center h-72 lg:h-[265px] xl:h-72 3xl:h-80 4xl:h-[420px] 5xl:h-[450px] 6xl:h-[540px] 7xl:h-[680px] rounded-3xl 7xl:rounded-[80px] flex gap-4"
+      >
+        <div
+          class="mt-3 mm:w-20 4xl:w-28 5xl:w-36 6xl:w-48 7xl:w-60 mm:h-20 4xl:h-28 5xl:h-36 6xl:h-48 7xl:h-60 rounded-3xl  bg-[#010854] flex justify-center items-center"
+        >
+          <img src="/assets/cloud-multi.svg" alt="" class="w-[70%] h-[70%]" loading="lazy" />
+        </div>
+        <div
+          class="flex flex-col text-white w-[80%] gap-4 md:gap-3 lg:gap-6 4xl:gap-16 4xl:leading-normal 5xl:gap-20 5xl:leading-normal"
+        >
+          <p
+            class="mb-0 text-center mm:text-xl sm:text-2xl md:text-xl lg:text-2xl 3xl:text-3xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl font-medium"
+          >
+            Aspiring Cloud Engineers
+          </p>
+          <p
+            class="mb-0 text-center mm:text-sm xm:text-lg sm:text-xl md:text-base lg:text-lg xl:text-xl 3xl:text-2xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl 4xl:leading-normal 5xl:leading-normal 6xl:leading-normal 7xl:leading-normal"
+          >
+            Individuals who aspire to become cloud engineers and are looking to
+            upskill in the feild of DevOps.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<section class="flex justify-center bg-white">
+  <div
+    class="w-[87%] flex justify-center mt-2 py-14 2xl:py-20 4xl:py-28 5xl:py-36 6xl:py-44 7xl:py-52"
+  >
+    <div
+      class="flex flex-col items-center gap-5 2xl:gap-7 3xl:gap-10 4xl:gap-20 5xl:gap-24 6xl:gap-28 7xl:gap-40"
+    >
+      <p
+        class="text-black text-center xs:text-xl sm:text-xl md:text-2xl lg:text-3xl 2xl:text-4xl 3xl:text-5xl 4xl:text-6xl 5xl:text-7xl 6xl:text-8xl 7xl:text-9xl mt-4 font-bold"
+      >
+        Frequently asked question
+      </p>
+
+      <div class="lg:w-[60%] 3xl:w-[70%] flex justify-center mt-2 mb-5">
+        <mat-accordion class="flex flex-col 3xl:gap-6">
+          <mat-expansion-panel>
+            <mat-expansion-panel-header>
+              <mat-panel-title
+                class="h-32 lg:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+              >
+                How do multicloud and DevOps work together?
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p
+              class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+            >
+              Multicloud environments provide diverse tools and platforms, while
+              DevOps practices ensure that these tools are integrated
+              efficiently into the development and operations processes. DevOps
+              methodologies can streamline and automate workflows across
+              different cloud platforms, enhancing overall efficiency and
+              agility.
+            </p>
+          </mat-expansion-panel>
+          <br />
+          <mat-expansion-panel
+            (opened)="panelOpenState = true"
+            (closed)="panelOpenState = false"
+          >
+            <mat-expansion-panel-header>
+              <mat-panel-title
+                class="h-32 lg:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+              >
+              What are the benefits of a multicloud strategy?
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p
+              class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+            >
+            Avoiding Vendor Lock-In: Flexibility to switch providers or use multiple services.
+            Optimized Performance: Choosing the best services for specific needs.
+            Improved Resilience: Distributing workloads across multiple providers reduces risk.
+            Cost Efficiency: Using the most cost-effective services and pricing models.
+            </p>
+          </mat-expansion-panel>
+          <br />
+          <mat-expansion-panel
+            (opened)="panelOpenState = true"
+            (closed)="panelOpenState = false"
+          >
+            <mat-expansion-panel-header>
+              <mat-panel-title
+                class="h-32 lg:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+              >
+                Can I hire interns through MentorFox?
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p
+              class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+            >
+              Yes, MentorFox is an excellent source for finding dedicated
+              interns in the tech field. We connect you with students and recent
+              graduates who are eager to gain real-world experience and
+              contribute to your projects.
+            </p>
+          </mat-expansion-panel>
+          <br />
+          <mat-expansion-panel
+            (opened)="panelOpenState = true"
+            (closed)="panelOpenState = false"
+          >
+            <mat-expansion-panel-header>
+              <mat-panel-title
+                class="h-32 lg:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+              >
+                Are there any fees for hiring candidates through MentorFox?
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p
+              class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+            >
+              No fee for hiring fresh graduates or freshers who have been
+              trained by us.
+            </p>
+          </mat-expansion-panel>
+          <br />
+          <mat-expansion-panel
+            (opened)="panelOpenState = true"
+            (closed)="panelOpenState = false"
+          >
+            <mat-expansion-panel-header>
+              <mat-panel-title
+                class="h-32 lg:text-lg 2xl:text-xl 3xl:text-2xl 4xl:text-4xl 5xl:text-5xl 6xl:text-6xl 7xl:text-7xl"
+              >
+                Is it possible to hire for remote or contract positions through
+                MentorFox?
+              </mat-panel-title>
+            </mat-expansion-panel-header>
+            <p
+              class="pt-3 text-base 2xl:text-lg 3xl:text-xl 4xl:text-3xl 5xl:text-4xl 6xl:text-5xl 7xl:text-6xl"
+            >
+              Certainly. MentorFox serves a variety of employment needs,
+              including full-time, part-time, remote, and contract positions. We
+              tailor our candidate search to your specific hiring requirements.
+            </p>
+          </mat-expansion-panel>
+        </mat-accordion>
+      </div>
+      <div class="col-3"></div>
+    </div>
+  </div>
+</section>
+
+</div>

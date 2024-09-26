@@ -1,0 +1,105 @@
+
+// Custom Theming for Angular Material
+// For more information: https://material.angular.io/guide/theming
+@use '@angular/material' as mat;
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat.core();
+
+// Define the theme object.
+$my-app-theme: mat.define-theme((
+  color: (
+    theme-type: light,
+    primary: mat.$azure-palette,
+    tertiary: mat.$blue-palette,
+  ),
+  density: (
+    scale: 0,
+  )
+));
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+:root {
+  @include mat.all-component-themes($my-app-theme);
+}
+
+// Comment out the line below if you want to use the pre-defined typography utility classes.
+// For more information: https://material.angular.io/guide/typography#using-typography-styles-in-your-application.
+// @include mat.typography-hierarchy($my-app-theme);
+
+// Comment out the line below if you want to use the deprecated `color` inputs.
+// @include mat.color-variants-backwards-compatibility($my-app-theme);
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --primary-clr: #0c1141;
+  --txt-clr: #fff;
+  --btn: #ffb095;
+  --txt-secondry: black;
+  --title-font-standard: 1rem;
+  --title-font-small: 0.9rem;
+  --title-md: 1.3rem;
+  --title-lg: 1.6rem;
+  --title-big: 1.8rem;
+  --desc-standard: 0.9rem;
+  --desc-small: 0.6rem;
+  --desc-md: 0.8rem;
+  --desc-lg: 1rem;
+  --desc-big: 1.2rem;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.main {
+  font-family: "Lato", sans-serif;
+  color: white;
+}
+// container
+@media (max-width: 300px) {
+  .container {
+    padding-inline: 1rem;
+  }
+}
+@media (min-width: 300px) {
+  .container {
+    padding-inline: 1.2rem;
+  }
+}
+@media (min-width: 640px) {
+  .container {
+    padding-inline: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    padding-inline: 2.4rem;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    padding-inline: 2.7rem;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    padding-inline: 5.5rem;
+  }
+}
+@media (min-width: 1536px) {
+  .container {
+    padding-inline: 6rem;
+    max-width: 1536px;
+  }
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

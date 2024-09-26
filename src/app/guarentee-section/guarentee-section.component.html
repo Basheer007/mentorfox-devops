@@ -1,0 +1,38 @@
+<section class="gaurentee-section container">
+
+  <div class="gaurentee-wrapper ">
+    <h2 class="gaurentee-title">MentorFox's Job Guarantee Explained</h2>
+
+    <p class="gaurentee-desc">
+      MentorFox is a partner in our learner's career tranformation and belive that we deserve a portion of the fee only
+      after a successfull outcome for our learners.Thus, our Job Guarantee Program have a component of "Success Fee",
+      which waived off if the job guarantee is not met within 6 months placement eligibility date.
+    </p>
+  </div>
+
+  <div class="dropdown-section" *ngFor="let accordian of accordionItems;let i = index;">
+    <div (click)="openAccordian(i)" [style.height]="accordian.isOpen? height:null" class="dropdown-container">
+      <div class="dropdown-title-container">
+        <div class="questionMark-container">
+          <img src="assets/questionMark.svg" alt="question-svg" class="questionMark-icon">
+        </div>
+        <div class="title-gaurentee-container">
+          <h3 class="accordian-title">{{accordian.title}}</h3>
+        </div>
+        <div [style.rotate]="accordian.isOpen?rotate:null" class="accordian-arrow-container">
+          <img src="assets/right-arrow.svg" alt="arrow-svg" class="accordian-svg">
+        </div>
+      </div>
+
+      <!-- answer desc -->
+      <div class="answer-container">
+        <p class="answer-desc">{{accordian.content}}</p>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+</section>

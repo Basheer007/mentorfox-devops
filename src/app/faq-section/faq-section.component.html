@@ -1,0 +1,74 @@
+<main class="faq-section container">
+  <div class="faq-title-container">
+    <h2 class="faq-title">Frequently asked question</h2>
+  </div>
+
+  <section class="flex-accordian">
+    <mat-accordion class="accordian-wrapper">
+      <mat-expansion-panel class="faq-accordian-container" (opened)="panelOpenState.set(true)"
+        (closed)="panelOpenState.set(false)">
+        <mat-expansion-panel-header class="faq-accordian-title-container">
+          <mat-panel-title class="faq-accordian-title"> How do multicloud and DevOps work together?</mat-panel-title>
+        </mat-expansion-panel-header>
+        <p class="faq-accordian-desc">Multicloud environments provide diverse tools and platforms, while DevOps
+          practices ensure that these tools
+          are integrated efficiently into the development and operations processes. DevOps methodologies can streamline
+          and automate workflows across different cloud platforms, enhancing overall efficiency and agility.</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+
+    <!-- accordian 2 -->
+    <mat-accordion class="accordian-wrapper">
+      <mat-expansion-panel class="faq-accordian-container" (opened)="panelOpenState.set(true)"
+        (closed)="panelOpenState.set(false)">
+        <mat-expansion-panel-header class="faq-accordian-title-container">
+          <mat-panel-title class="faq-accordian-title">What are the benefits of a multicloud strategy?</mat-panel-title>
+
+        </mat-expansion-panel-header>
+        <p class="faq-accordian-desc">Avoiding Vendor Lock-In: Flexibility to switch providers or use multiple services.
+          Optimized Performance: Choosing the best services for specific needs. Improved Resilience: Distributing
+          workloads across multiple providers reduces risk. Cost Efficiency: Using the most cost-effective services and
+          pricing models.</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+    <!-- accordian 3 -->
+    <mat-accordion class="accordian-wrapper">
+      <mat-expansion-panel class="faq-accordian-container" (opened)="panelOpenState.set(true)"
+        (closed)="panelOpenState.set(false)">
+        <mat-expansion-panel-header class="faq-accordian-title-container">
+          <mat-panel-title class="faq-accordian-title">Can I hire interns through MentorFox?</mat-panel-title>
+
+        </mat-expansion-panel-header>
+        <p class="faq-accordian-desc">Yes, MentorFox is an excellent source for finding dedicated interns in the tech
+          field. We connect you with students and recent graduates who are eager to gain real-world experience and
+          contribute to your projects.</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+    <!-- accordian 4 -->
+    <mat-accordion class="accordian-wrapper">
+      <mat-expansion-panel class="faq-accordian-container" (opened)="panelOpenState.set(true)"
+        (closed)="panelOpenState.set(false)">
+        <mat-expansion-panel-header class="faq-accordian-title-container">
+          <mat-panel-title class="faq-accordian-title">Are there any fees for hiring candidates through
+            MentorFox?</mat-panel-title>
+
+        </mat-expansion-panel-header>
+        <p class="faq-accordian-desc">No fee for hiring fresh graduates or freshers who have been trained by us.</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+    <!-- accordian 5 -->
+    <mat-accordion class="accordian-wrapper">
+      <mat-expansion-panel class="faq-accordian-container" (opened)="panelOpenState.set(true)"
+        (closed)="panelOpenState.set(false)">
+        <mat-expansion-panel-header class="faq-accordian-title-container">
+          <mat-panel-title class="faq-accordian-title">Is it possible to hire for remote or contract positions through
+            MentorFox?</mat-panel-title>
+
+        </mat-expansion-panel-header>
+        <p class="faq-accordian-desc">Certainly. MentorFox serves a variety of employment needs, including full-time,
+          part-time, remote, and contract positions. We tailor our candidate search to your specific hiring
+          requirements.</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </section>
+</main>
